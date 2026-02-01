@@ -93,9 +93,3 @@ The following preprocessing steps were applied to ensure data quality and reliab
 * **Microsoft Excel** – Data cleaning, transformation, and analysis
 * **Dashboard & Visualization Tool** – Data visualization and reporting
 
-## Potential Enhancements
-
-* Time-series analysis to identify seasonal trends.
-* Customer segmentation and behavior analysis.
-* Sales forecasting models.
-* Profitability and cost analysis.
