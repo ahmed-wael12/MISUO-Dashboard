@@ -99,6 +99,3 @@ The following preprocessing steps were applied to ensure data quality and reliab
 * Customer segmentation and behavior analysis.
 * Sales forecasting models.
 * Profitability and cost analysis.
-
-
-قولّي وهنطلع حاجة 🔥🔥
